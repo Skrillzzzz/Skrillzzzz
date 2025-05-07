@@ -28,7 +28,7 @@ A web-based annotation tool to assist dermatologists in analyzing skin lesions.
 ### ☁️ Cloud-Based DVD Web App + Serverless Password Validator  
 **Tech:** Java, MySQL, AWS (EC2, RDS, Lambda with Python)  
 - Deployed a Java web app with a cloud-hosted MySQL database  
-- Created a serverless password strength checker using AWS Lambda
+- Created a serverless password strength checker using AWS Lambda  
 [GitHub Repo](https://github.com/Skrillzzzz/Cloud-Based-DVD-Web-App)
 
 ---
@@ -36,7 +36,7 @@ A web-based annotation tool to assist dermatologists in analyzing skin lesions.
 ### 🎮 Multi-Paradigm Snake Game  
 Built in **Python (OOP)**, **C (Procedural)**, and **Go (Procedural/Imperative)**  
 - Implemented increasing speed, high score tracking, and input validation  
-- Demonstrated unique strengths of each language and paradigm
+- Demonstrated unique strengths of each language and paradigm  
 [GitHub Repo](https://github.com/Skrillzzzz/Multi-Paradigm-Snake-Game)
 
 ---
