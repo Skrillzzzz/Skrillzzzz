@@ -28,15 +28,8 @@ A web-based annotation tool to assist dermatologists in analyzing skin lesions.
 ### ☁️ Cloud-Based DVD Web App + Serverless Password Validator  
 **Tech:** Java, MySQL, AWS (EC2, RDS, Lambda with Python)  
 - Deployed a Java web app with a cloud-hosted MySQL database  
-- Created a serverless password strength checker using AWS Lambda  
-
----
-
-### 📱 WeatherWise Mobile App  
-A real-time cross-platform weather application with GPS-based forecasts and customizable alerts.  
-**Tech:** Cross-platform mobile tools, Weather APIs  
-- Real-time updates, severe weather alerts, and detailed 7-day forecasts  
-- User research, wireframes, and persona-led UI design  
+- Created a serverless password strength checker using AWS Lambda
+[GitHub Repo](https://github.com/Skrillzzzz/Cloud-Based-DVD-Web-App)
 
 ---
 
@@ -44,14 +37,7 @@ A real-time cross-platform weather application with GPS-based forecasts and cust
 Built in **Python (OOP)**, **C (Procedural)**, and **Go (Procedural/Imperative)**  
 - Implemented increasing speed, high score tracking, and input validation  
 - Demonstrated unique strengths of each language and paradigm
-
----
-
-### 🍽️ Calorie Counter Web App (Group Project)
-**Tech:** Vue.js, Trello, GitHub  
-- Researched exercise routines and recipes  
-- Handled project management and team communication  
-- Collaborated on health and fitness feature content
+[GitHub Repo](https://github.com/Skrillzzzz/Multi-Paradigm-Snake-Game)
 
 ---
 
@@ -64,16 +50,16 @@ Tracked live sports data using advanced tools, ensuring precision under pressure
 
 ---
 
-## 🎧 Hobbies & Interests
-- Techno raves, DJing 🎶  
+## 🎧 Hobbies & Interests 
 - Cybersecurity & ethical hacking  
 - Travel, adventuring & new sidequests 🧳  
 - Community events & volunteering  
-- Gym & fitness  
+- Gym & fitness
+- Attending music events & DJing 🎶   
 
 ---
 
 ## 📫 Get in Touch
-- 📧 andrewmelving@email.com  
-- 💼 [LinkedIn](#)  
+- 📧 tunmise30@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/andrew-melving-138483209/)  
 - 💻 [GitHub](https://github.com/Skrillzzzz)
